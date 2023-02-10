@@ -1,4 +1,4 @@
-# MY ML Journey
+# My ML Journey
 Just me documenting my journey learning more about ML algorithms
 
 
